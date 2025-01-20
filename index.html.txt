@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="IvankaCoin - Den sjove memecoin inspireret af Ivanka Trump. Join os og vær med i den næste store kryptotrend!">
+    <title>IvankaCoin - Den officielle memecoin</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Du kan oprette din egen CSS-fil for styling -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #FFB6C1;
+            padding: 20px;
+            text-align: center;
+            color: #fff;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            color: #FF6347;
+        }
+
+        .button {
+            background-color: #FF6347;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            text-align: center;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+        }
+
+        .button:hover {
+            background-color: #FF4500;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>IvankaCoin</h1>
+        <p>Den sjove memecoin inspireret af Ivanka Trump!</p>
+    </header>
+
+    <div class="container">
+        <section class="section">
+            <h2>Hvad er IvankaCoin?</h2>
+            <p>IvankaCoin (IVKA) er den nyeste og sjoveste memecoin på markedet! Skabt som en hyldest til Ivanka Trump og den sjove verden af kryptovaluta. IvankaCoin er bygget på Solana blockchain og er designet til at bringe glæde og humor til crypto-fællesskabet.</p>
+        </section>
+
+        <section class="section">
+            <h2>Hvorfor IvankaCoin?</h2>
+            <ul>
+                <li>Inspireret af en af de mest kendte offentlige figurer – Ivanka Trump.</li>
+                <li>Bygget på Solana blockchain for hurtige og billige transaktioner.</li>
+                <li>Sjovt og engagerende fællesskab.</li>
+                <li>Potentielt høj vækst, hvis du tror på den næste store memecoin!</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Hvordan kan du købe IvankaCoin?</h2>
+            <p>IvankaCoin kan købes på Decentraliserede Børser (DEX), såsom Radium og Serum, som opererer på Solana-netværket.</p>
+            <p><a href="https://www.radium.io" class="button" target="_blank">Køb IvankaCoin på Radium</a></p>
+        </section>
+
+        <section class="section">
+            <h2>Bliv en del af fællesskabet!</h2>
+            <p>Vær med i det sjove fællesskab omkring IvankaCoin. Følg os på sociale medier og del dine bedste memes!</p>
+            <p><a href="https://twitter.com/ivankacoin" class="button" target="_blank">Følg IvankaCoin på Twitter</a></p>
+            <p><a href="https://discord.gg/ivankacoin" class="button" target="_blank">Slut dig til IvankaCoin på Discord</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 IvankaCoin. Alle rettigheder forbeholdes.</p>
+        <p><a href="#">Privatlivspolitik</a> | <a href="#">Brugsbetingelser</a></p>
+    </footer>
+</body>
+</html>
